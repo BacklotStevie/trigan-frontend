@@ -1,15 +1,14 @@
 import * as React from "react"
 
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import intromovie from "../images/intro logo movie.mp4"
 
 const Home = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1 className="text-blue-700">Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+      <div className="Logo-Video">
+          <video controls autostart autoPlay src={intromovie} type="video/mp4" />
+      </div>
   </Layout>
 )
 
