@@ -26,7 +26,7 @@ const Header = ({ siteTitle }) => {
             <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:text-white mr-7">
               About
             </a>
-            <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:text-white">
+            <a href="/contact" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:text-white">
                Contact
             </a>
         </div>

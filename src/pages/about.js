@@ -12,7 +12,7 @@ const AboutPage = () => (
             <img src={triganeye} alt="..." class="flex max-w-23 max-h-20 justify-self: center border-none"></img>
         </div>
         <div class="flex items-center text-white justify-center pt-3">
-            <h2 class="text-white">About</h2>
+            <h2 class="text-white">ABOUT</h2>
         </div>
         <div class="row">
             <h4 class="flex items-center text-white justify-center pt-5 mt-5">Mauricio Carrasco</h4>
