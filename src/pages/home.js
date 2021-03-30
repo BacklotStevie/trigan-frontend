@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import intromovie from "../images/intro logo movie.mp4"
 
+
 const Home = () => (
   <Layout>
     <>
@@ -12,7 +13,7 @@ const Home = () => (
       </div>
 
       <div className="Logo-Video" class="flex justify-center">
-          <video id="TriganVid" muted timeupdate poster autostart autoPlay src={intromovie} type="video/mp4"/>
+          <video id="TriganVid" muted timeupdate poster autostart autoPlay src={intromovie} type="video/mp4" class="max-h-35"/>
       </div>
     </>
   </Layout>
