@@ -1,6 +1,4 @@
 import * as React from "react"
-
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import triganeye from "../images/trigan eye.png"
@@ -19,8 +17,7 @@ const AboutPage = () => (
         <div class="row">
             <h4 class="flex items-center text-white justify-center pt-5 mt-5">Mauricio Carrasco</h4>
             <div class="flex justify-between grid-cols-2">
-                <span class="cols-span-12 items-center text-white justify-center mt-3 pr-3">Mauricio has 2 years of experience in filming and editing. Self teaching himself everything he knows, has only proven the love for the craft he has taken up. Beginning his path with travel-like / montage videos, Mauricio has broadened his styles with every opportunity presented. Having worked on a variety of videos ranging from sports, music videos, to events; no request is too small or out of his comfort zone. 
-                    Being strongly influenced in the anime genre, Japanese culture has always fascinated him. Wanting to combine the love for the culture and videography, TRI-GAN was orginated. "TRI" meaning 3, and "GAN" being Japanese for eye. TRI-GAN Visuals invites you to see what stories Mauricio's "Third Eye" captures, being his camera lens.</span>
+                <span class="cols-span-12 items-center text-white justify-center mt-3 pr-3">TRI-GAN, or “Three Eye” in English, perfectly encapsulates Mauricio’s outlook on videography - capturing everyday life not just through a camera, but through an extension of himself. With three years of experience in videography and editing, Mauricio’s love for the craft has led him through an incredible journey of self-discovery and knowledge. Completely self-taught from early travel montage videos, Mauricio has worked on a variety of projects for clients, including sporting events, music videos, charity events and business ventures. No request is too small or out of his comfort zone, as he is always looking for more stories to help tell through his TRI-GAN.</span>
                 <img src={isho} alt="..." class="cols-span-12 max-h-80 max-w-80 border-none mt-3 pl-5"></img>
             </div>
         </div>
