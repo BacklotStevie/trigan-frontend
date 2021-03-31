@@ -9,7 +9,7 @@ const Home = () => (
   <Layout>
     <>
       <div>
-        <h3 class="flex text-white justify-center mt-4">Capturing life through a lens.</h3>
+        <h3 class="flex text-white tracking-wider justify-center mt-6">FREELANCE VIDEOGRAPHY AND EDITING</h3>
       </div>
 
       <div className="Logo-Video" class="flex justify-center">
