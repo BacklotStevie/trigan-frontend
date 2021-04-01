@@ -45,17 +45,17 @@ const Footer = () => {
                     <p class="uppercase text-white text-sm sm:mb-6">Links</p>
                     <ul class="list-reset text-xs mb-6">
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                            <a href="#" class="text-white hover:text-grey-dark">FAQ</a>
+                            <a href="http://voyagemia.com/interview/meet-mauricio-carrasco-tri-gan-visuals-miami-lakes/" class="text-white hover:text-grey-dark">VoyageMIA</a>
                         </li>
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                            <a href="#" class="text-white hover:text-grey-dark">Help</a>
+                            <a href="#" class="text-white hover:text-grey-dark">YouTube</a>
                      </li>
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
                             <a href="#" class="text-white hover:text-grey-dark">Support</a>
                         </li>
                     </ul>
             </div>
-            <div class="block sm:table-cell">
+            {/* <div class="block sm:table-cell">
                 <p class="uppercase text-white text-sm sm:mb-6">Legal</p>
                 <ul class="list-reset text-xs mb-6">
                     <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
@@ -65,18 +65,18 @@ const Footer = () => {
                         <a href="#" class="text-white hover:text-grey-dark">Privacy</a>
                     </li>
                 </ul>
-            </div>
+            </div> */}
             <div class="block sm:table-cell">
                 <p class="uppercase text-white text-sm sm:mb-6">Social</p>
                 <ul class="list-reset text-xs mb-6">
                     <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                        <a href="#" class="text-white hover:text-grey-dark">Facebook</a>
+                        <a href="https://www.instagram.com/trigan.visuals" class="text-white hover:text-grey-dark">Instagram</a>
                     </li>
                     <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                        <a href="#" class="text-white hover:text-grey-dark">Linkedin</a>
+                        <a href="https://www.twitter.com/TriganVisuals" class="text-white hover:text-grey-dark">Twitter</a>
                     </li>
                     <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                        <a href="#" class="text-white hover:text-grey-dark">Twitter</a>
+                        <a href="#" class="text-white hover:text-grey-dark">LinkedIn</a>
                     </li>
                 </ul>
             </div>
@@ -84,13 +84,13 @@ const Footer = () => {
                     <p class="uppercase text-white text-sm sm:mb-6">Company</p>
                     <ul class="list-reset text-xs mb-6">
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                            <a href="#" class="text-white hover:text-grey-dark">Official Blog</a>
+                            <a href="/portfolio" class="text-white hover:text-grey-dark">Portfolio</a>
                         </li>
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                            <a href="#" class="text-white hover:text-grey-dark">About Us</a>
+                            <a href="/about" class="text-white hover:text-grey-dark">About Us</a>
                         </li>
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                            <a href="#" class="text-white hover:text-grey-dark">Contact</a>
+                            <a href="/contact" class="text-white hover:text-grey-dark">Contact</a>
                      </li>
                     </ul>
                 </div>
