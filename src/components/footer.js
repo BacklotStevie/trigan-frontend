@@ -38,7 +38,7 @@ const Footer = () => {
     // </div>
     // </footer>
 
-    <footer class="flex bg-black py-8 w-full">
+    <footer class="flex bg-black py-8 w-full mt-8">
         <div class="flex container mx-auto px-8">
             <div class="table w-full jus">
              <div class="flex block sm:table-cell">
