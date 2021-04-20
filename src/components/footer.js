@@ -38,7 +38,7 @@ const Footer = () => {
     // </div>
     // </footer>
 
-    <footer class="flex bg-black py-8 w-full mt-8">
+    <footer class="flex justify-center bg-black py-8 w-full mt-8">
         <div class="flex container mx-auto px-8">
             <div class="flex table w-full">
              <div class="flex block sm:table-cell">
@@ -48,7 +48,7 @@ const Footer = () => {
                             <a href="http://voyagemia.com/interview/meet-mauricio-carrasco-tri-gan-visuals-miami-lakes/" class="text-white hover:text-grey-dark">VoyageMIA</a>
                         </li>
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                            <a href="#" class="text-white hover:text-grey-dark">YouTube</a>
+                            <a href="http://vimeo.com/trigan" class="text-white hover:text-grey-dark">Vimeo</a>
                      </li>
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
                             <a href="#" class="text-white hover:text-grey-dark">Support</a>

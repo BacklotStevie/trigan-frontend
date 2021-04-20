@@ -20,13 +20,13 @@ const Header = ({ siteTitle }) => {
         </div> */}
         <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div class="text-lg place-items: center lg:flex-grow text-center">
-             <a href="/portfolio" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:text-white mr-7">
+             <a href="/portfolio" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:no-underline hover:text-red-700 mr-7">
               Portfolio
             </a>
-            <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:text-white mr-7">
+            <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:no-underline hover:text-red-700 mr-7">
               About
             </a>
-            <a href="/contact" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:text-white">
+            <a href="/contact" class="block mt-4 lg:inline-block lg:mt-0 text-white text-decoration: underline hover:no-underline hover:text-red-700">
                Contact
             </a>
         </div>
