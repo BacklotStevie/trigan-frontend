@@ -14,16 +14,23 @@ const Portfolio = () => (
     </div>
     <div class="mt-5">
       <div class="flex justify-around flex-wrap">
-      <h4 class="text-center text-white w-full pb-3">Travel Videos</h4>
-      <div class="w-full md:w-1/2 lg:w-1/3">
-        <iframe src="https://player.vimeo.com/video/537736986?embedparameter=value" width="100%" height="200" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <div class="w-full md:w-1/2 lg:w-1/3">
-        <iframe src="https://player.vimeo.com/video/537735923?embedparameter=value" width="100%" height="200" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <div class="w-full md:w-1/2 lg:w-1/3">
-        <iframe src="https://player.vimeo.com/video/537729922?embedparameter=value" width="100%" height="200" frameborder="0" allowfullscreen></iframe>
-      </div>
+      <h4 class="text-center text-red-700 w-full pb-3">TRAVEL VIDEOS</h4>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/537736986?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/537735923?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+       </div>
+        <div class="w-full md:w-1/2">
+         <iframe class="mx-3" src="https://player.vimeo.com/video/537729922?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
+      <h4 class="text-center text-red-700 w-full pt-6 pb-3">MISC.</h4>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/537728577?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/537736120?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
       </div>
     </div>
   </Layout>
