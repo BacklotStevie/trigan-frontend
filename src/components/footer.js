@@ -40,9 +40,9 @@ const Footer = () => {
 
     <footer class="flex bg-black py-8 w-full mt-8">
         <div class="flex container mx-auto px-8">
-            <div class="table w-full jus">
+            <div class="flex table w-full">
              <div class="flex block sm:table-cell">
-                    <p class="uppercase text-white text-sm sm:mb-6">Links</p>
+                    <p class="uppercase pl-5 text-red-700 text-sm sm:mb-6">Links</p>
                     <ul class="list-reset text-xs mb-6">
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
                             <a href="http://voyagemia.com/interview/meet-mauricio-carrasco-tri-gan-visuals-miami-lakes/" class="text-white hover:text-grey-dark">VoyageMIA</a>
@@ -67,7 +67,7 @@ const Footer = () => {
                 </ul>
             </div> */}
             <div class="block sm:table-cell">
-                <p class="uppercase text-white text-sm sm:mb-6">Social</p>
+                <p class="uppercase pl-5 text-red-700 text-sm sm:mb-6">Social</p>
                 <ul class="list-reset text-xs mb-6">
                     <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
                         <a href="https://www.instagram.com/trigan.visuals" class="text-white hover:text-grey-dark">Instagram</a>
@@ -81,7 +81,7 @@ const Footer = () => {
                 </ul>
             </div>
                 <div class="block sm:table-cell">
-                    <p class="uppercase text-white text-sm sm:mb-6">Company</p>
+                    <p class="uppercase pl-5 text-red-700 text-sm sm:mb-6">Company</p>
                     <ul class="list-reset text-xs mb-6">
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
                             <a href="/portfolio" class="text-white hover:text-grey-dark">Portfolio</a>
