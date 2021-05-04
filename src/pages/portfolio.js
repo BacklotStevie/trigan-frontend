@@ -43,12 +43,21 @@ const Portfolio = () => (
         <div class="w-full md:w-1/2">
           <iframe class="mx-3" src="https://player.vimeo.com/video/540753720?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
         </div>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/544717075?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/544718762?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
       <h4 class="text-center text-red-700 w-full pt-6 pb-3">MISC.</h4>
         <div class="w-full md:w-1/2">
           <iframe class="mx-3" src="https://player.vimeo.com/video/537728577?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="w-full md:w-1/2">
           <iframe class="mx-3" src="https://player.vimeo.com/video/537736120?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/544718509?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
     </div>
