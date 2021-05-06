@@ -51,7 +51,7 @@ const Footer = () => {
                             <a href="http://vimeo.com/trigan" class="text-white hover:text-grey-dark">Vimeo</a>
                      </li>
                         <li class="mt-2 inline-block mr-2 sm:block sm:mr-0">
-                            <a href="#" class="text-white hover:text-grey-dark">Support</a>
+                            <a href="/testimonials" class="text-white hover:text-grey-dark">Testimonials</a>
                         </li>
                     </ul>
             </div>
