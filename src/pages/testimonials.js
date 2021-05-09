@@ -17,6 +17,12 @@ const Testimonials = () => (
         <div class='flex justify-around flex-wrap pt-4'>
             <p class="text-white w-full md:w-1/3">"Working with Trigan Visuals was, and continues to be, an awesome experience! As a visual artist myself, I've had the pleasure of working alongside and with Trigan Visuals for my personal brand. Trigan always gives their clients full transparency while meeting all your expectations. Dedication, professionalism & creativity are just some of the many words I'd use to describe them! I would highly recommend Trigan Visuals to anyone looking for high-quality videography!" - <span class='text-red-700'>Desiree Prieto, <i>Artistic Desire</i></span></p>
         </div>
+        <div class='flex justify-around flex-wrap pt-4'>
+            <p class="text-white w-full md:w-1/3">"Working with Trigan Visuals was, and continues to be, an awesome experience! As a visual artist myself, I've had the pleasure of working alongside and with Trigan Visuals for my personal brand. Trigan always gives their clients full transparency while meeting all your expectations. Dedication, professionalism & creativity are just some of the many words I'd use to describe them! I would highly recommend Trigan Visuals to anyone looking for high-quality videography!" - <span class='text-red-700'>Desiree Prieto, <i>Artistic Desire</i></span></p>
+        </div>
+        <div class='flex justify-around flex-wrap pt-4'>
+            <p class="text-white w-full md:w-1/3">"Working with Trigan Visuals was, and continues to be, an awesome experience! As a visual artist myself, I've had the pleasure of working alongside and with Trigan Visuals for my personal brand. Trigan always gives their clients full transparency while meeting all your expectations. Dedication, professionalism & creativity are just some of the many words I'd use to describe them! I would highly recommend Trigan Visuals to anyone looking for high-quality videography!" - <span class='text-red-700'>Desiree Prieto, <i>Artistic Desire</i></span></p>
+        </div>
     </>
   </Layout>
 )
