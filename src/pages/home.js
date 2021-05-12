@@ -1,5 +1,4 @@
 import * as React from "react"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import intromovie from "../images/intro logo movie.mp4"
@@ -34,13 +33,13 @@ const Home = () => (
 //  })
 // });
 
-window.onload=function(){
-  let video=document.getElementById("TriganVid");
-    video.addEventListener("timeupdate", function(){
-      if(this.currentTime >= 6){
-        video.pause();
-    }
-    });
-  }
+// window.onload=function(){
+//   let video=document.getElementById("TriganVid");
+//     video.addEventListener("timeupdate", function(){
+//       if(this.currentTime >= 6){
+//         video.pause();
+//     }
+//     });
+//   }
 
 export default Home
