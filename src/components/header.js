@@ -8,7 +8,7 @@ const Header = ({ siteTitle }) => {
     <>
       <nav class="justify-between flex-wrap bg-teal p-6">
         <div class="flex items-center flex-no-shrink text-white mr-6 justify-center">
-            <a href="/home"> 
+            <a href="/"> 
               <img src={trigantext} alt="..." class="max-w-23 max-h-20 justify-self: center border-none" />
             </a>
             {/* <span class="font-semibold text-xl tracking-tight">Tri-Gan Visuals</span> */}
