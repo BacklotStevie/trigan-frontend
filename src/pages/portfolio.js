@@ -59,6 +59,15 @@ const Portfolio = () => (
         <div class="w-full md:w-1/2">
           <iframe class="mx-3" src="https://player.vimeo.com/video/544718509?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
         </div>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/548480627?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/548480365?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="w-full md:w-1/2">
+          <iframe class="mx-3" src="https://player.vimeo.com/video/548480948?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+        </div>
       </div>
     </div>
   </Layout>
