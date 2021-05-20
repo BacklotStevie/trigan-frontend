@@ -16,10 +16,10 @@ const Portfolio = () => (
       <div class="flex justify-around flex-wrap">
       <h4 class="text-center text-red-700 w-full pb-3">TRAVEL VIDEOS</h4>
         <div class="w-full md:w-1/2">
-          <iframe class="mx-3" src="https://player.vimeo.com/video/537736986?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+          <iframe class="mx-3" src="https://player.vimeo.com/video/537736986?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen playfullscreen></iframe>
         </div>
         <div class="w-full md:w-1/2">
-          <iframe class="mx-3" src="https://player.vimeo.com/video/537735923?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
+          <iframe class="mx-3" src="https://player.vimeo.com/video/537735923?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen playfullscreen></iframe>
        </div>
         <div class="w-full md:w-1/2">
          <iframe class="mx-3" src="https://player.vimeo.com/video/537729922?embedparameter=value" width="90%" height="200" frameborder="0" allowfullscreen></iframe>
